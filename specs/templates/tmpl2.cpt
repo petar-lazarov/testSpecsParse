@@ -1,0 +1,32 @@
+
+# tmpl2:Share <this> ok
+
+* One <this>
+* Two <this> is still working
+* But Not here
+* Ok <this>
+
+
+# tmpl2:Share TWO <this> <that>
+
+* One <that>
+* Two <this>
+
+# tmpl2:Share Table <with>
+
+ * <with>
+ 
+     ONE | TWO
+   ----- | ---
+   cell 1 | cell 2 and <with>
+   cell 3 <with> | cell 4
+   
+ * sub-bullets
+   * <with> showing table below
+
+      ONE | TWO
+      ----- | ---
+      cell 1 | cell 2 and <with>
+      cell 3 <with> | cell 4
+   
+
