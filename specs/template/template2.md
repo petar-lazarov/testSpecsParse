@@ -25,4 +25,9 @@ Whatever now
 Using `tmpl3.cpt` here that contains descriptions
 
   * tmpl3:DOIT
+    Do still work ok. Even if I have text here. 
+
+ * One
+ * Two
+
   
